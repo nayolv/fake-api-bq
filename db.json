@@ -107,6 +107,15 @@
       "type": "Comida",
       "dateEntry": "2021-12-07",
       "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "Chilaquiles Verdes",
+      "price": "150",
+      "image": "C:\\fakepath\\Captura de pantalla 2023-07-05 125353.png",
+      "type": "Comida",
+      "dateEntry": "2021-12-24",
+      "quantity": 1
     }
   ],
   "orders": [
@@ -287,6 +296,170 @@
       "exit": "",
       "status": "Pendiente",
       "time": ""
+    },
+    {
+      "id": 10,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 11,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "13:24",
+      "status": "Lista",
+      "time": 1
+    },
+    {
+      "id": 12,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 13,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 14,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 15,
+      "client": "gabs",
+      "products": [
+        {
+          "name": "Sandwich de jamón y queso",
+          "quantity": 1
+        },
+        {
+          "name": "Café americano",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:22",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 16,
+      "client": "nini",
+      "products": [
+        {
+          "name": "Cafe con leche",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:25",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 17,
+      "client": "cirila",
+      "products": [
+        {
+          "name": "Cafe con leche",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:25",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 18,
+      "client": "gonzosonso",
+      "products": [
+        {
+          "name": "Cafe con leche",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:26",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
+    },
+    {
+      "id": 19,
+      "client": "antoña",
+      "products": [
+        {
+          "name": "Chilaquiles Verdes",
+          "quantity": 1
+        }
+      ],
+      "entry": "13:30",
+      "exit": "",
+      "status": "Pendiente",
+      "time": ""
     }
   ],
   "users": [
@@ -315,18 +488,6 @@
       "password": "123456"
     },
     {
-      "id": 7,
-      "name": {
-        "firstName": "Carlos",
-        "lastName": "Prueba"
-      },
-      "role": {
-        "kitchen": true
-      },
-      "email": "admin2@ejemplo.com",
-      "password": "123456894"
-    },
-    {
       "id": 8,
       "name": {
         "firstName": "Nayelli Guadalupe",
@@ -336,6 +497,18 @@
         "waiter": true
       },
       "email": "mesero@ejemplo.com",
+      "password": "123456"
+    },
+    {
+      "id": 9,
+      "name": {
+        "firstName": "gaba",
+        "lastName": "olv"
+      },
+      "role": {
+        "kitchen": true
+      },
+      "email": "chefsita@ejemplo.com",
       "password": "123456"
     }
   ]
